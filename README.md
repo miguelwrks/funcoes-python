@@ -1,2 +1,2 @@
 # funcoes-python
-odio
+atividade da agenda 10 de DS
